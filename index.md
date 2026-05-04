@@ -18,7 +18,7 @@
 
 ## diagnostics
 
-<!-- {author}-{year}-{title} — one-line description -->
+- [[diagnostics/hessey-2026-evolutionary-characterization-lung-cancer]] — Longitudinal WES of 501 NSCLC samples; metastases seed each other, CIN drives extrathoracic spread
 
 ## aging
 
