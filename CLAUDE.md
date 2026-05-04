@@ -38,6 +38,8 @@ llm_wiki/
     ├── alignment/          # RLHF, DPO, Constitutional AI, safety
     ├── inference/          # Inference efficiency, quantization, KV cache, speculative decoding
     ├── agents/             # LLM agents, tool use, multi-agent, RAG
+    ├── diagnostics/        # Clinical diagnosis, medical AI, disease detection
+    ├── aging/              # Aging biology, longevity, senescence
     ├── concepts/           # Key methods, algorithms explained generically
     └── overviews/          # Synthesis pages spanning multiple papers
 ```
@@ -64,6 +66,8 @@ Example: `vaswani-2017-attention-is-all-you.pdf`
 | `alignment` | RLHF, DPO, Constitutional AI, instruction tuning, safety, red-teaming |
 | `inference` | Inference efficiency, quantization, KV cache, speculative decoding, batching |
 | `agents` | LLM agents, tool use, multi-agent systems, RAG, memory, planning |
+| `diagnostics` | Clinical diagnosis, medical AI, disease detection, biomarker identification |
+| `aging` | Aging biology, longevity, age-related diseases, senescence, lifespan extension |
 | `concepts` | Key methods, algorithms explained generically |
 | `overviews` | Synthesis pages spanning multiple papers |
 

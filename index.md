@@ -16,6 +16,14 @@
 
 <!-- {author}-{year}-{title} — one-line description -->
 
+## diagnostics
+
+<!-- {author}-{year}-{title} — one-line description -->
+
+## aging
+
+<!-- {author}-{year}-{title} — one-line description -->
+
 ## concepts
 
 <!-- {author}-{year}-{title} — one-line description -->
